@@ -1,0 +1,524 @@
+{
+    "entries": [
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/BendRoad.prefab",
+            "position": {
+                "x": 84.0,
+                "y": 120.92500305175781,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 89.99999237060547
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/BendRoad.prefab",
+            "position": {
+                "x": 84.0,
+                "y": 112.92500305175781,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 89.99999237060547
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/BendRoad.prefab",
+            "position": {
+                "x": 84.0,
+                "y": 104.92500305175781,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 89.99999237060547
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/BendRoad.prefab",
+            "position": {
+                "x": 84.0,
+                "y": 96.92500305175781,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 89.99999237060547
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/BendRoad.prefab",
+            "position": {
+                "x": 84.0,
+                "y": 88.92500305175781,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 89.99999237060547
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/BendRoad.prefab",
+            "position": {
+                "x": 84.0,
+                "y": 80.92500305175781,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 89.99999237060547
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/BendRoad.prefab",
+            "position": {
+                "x": 84.0,
+                "y": 72.92500305175781,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 89.99999237060547
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/BendRoad.prefab",
+            "position": {
+                "x": 84.0,
+                "y": 64.92500305175781,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 89.99999237060547
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/BendRoad.prefab",
+            "position": {
+                "x": 84.0,
+                "y": 56.92500305175781,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 89.99999237060547
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/StraightRoad.prefab",
+            "position": {
+                "x": 84.0,
+                "y": 48.93000411987305,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 180.0
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/StraightRoad.prefab",
+            "position": {
+                "x": 84.0,
+                "y": 40.94000244140625,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 180.0
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/StraightRoad.prefab",
+            "position": {
+                "x": 84.0,
+                "y": 32.95000076293945,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 180.0
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/StraightRoad.prefab",
+            "position": {
+                "x": 84.0,
+                "y": 24.96000099182129,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 180.0
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/StraightRoad.prefab",
+            "position": {
+                "x": 84.0,
+                "y": 16.970001220703126,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 180.0
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/StraightRoad.prefab",
+            "position": {
+                "x": 84.0,
+                "y": 8.980000495910645,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 180.0
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/StraightRoad.prefab",
+            "position": {
+                "x": 84.0,
+                "y": 0.9900002479553223,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 180.0
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/StraightRoad.prefab",
+            "position": {
+                "x": 84.0,
+                "y": -7.0,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 180.0
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Game/bg.prefab",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Game/Gameplay.prefab",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/StraightRoad.prefab",
+            "position": {
+                "x": 28.0,
+                "y": 1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/StraightRoad.prefab",
+            "position": {
+                "x": 60.0,
+                "y": 1.0,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/StraightRoad.prefab",
+            "position": {
+                "x": 84.0,
+                "y": 1.0,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/StraightRoad.prefab",
+            "position": {
+                "x": 36.0,
+                "y": 1.0,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/StraightRoad.prefab",
+            "position": {
+                "x": 76.0,
+                "y": 1.0,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/StraightRoad.prefab",
+            "position": {
+                "x": 20.0,
+                "y": 1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/BendRoad.prefab",
+            "position": {
+                "x": 84.0,
+                "y": 48.94499588012695,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 89.99999237060547
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/StraightRoad.prefab",
+            "position": {
+                "x": 84.0,
+                "y": 64.93499755859375,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 90.0
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/StraightRoad.prefab",
+            "position": {
+                "x": 84.0,
+                "y": 56.93999481201172,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/StraightRoad.prefab",
+            "position": {
+                "x": 84.0,
+                "y": 8.989999771118164,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/StraightRoad.prefab",
+            "position": {
+                "x": 84.0,
+                "y": 72.93499755859375,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 90.0
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/StraightRoad.prefab",
+            "position": {
+                "x": 44.0,
+                "y": 1.0,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/StraightRoad.prefab",
+            "position": {
+                "x": 0.0,
+                "y": 9.0,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/BendRoad.prefab",
+            "position": {
+                "x": 84.0,
+                "y": 80.93499755859375,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 89.99999237060547
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/StraightRoad.prefab",
+            "position": {
+                "x": 84.0,
+                "y": 24.969999313354493,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/StraightRoad.prefab",
+            "position": {
+                "x": 68.0,
+                "y": 1.0,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/StraightRoad.prefab",
+            "position": {
+                "x": 84.0,
+                "y": 16.979999542236329,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/StraightRoad.prefab",
+            "position": {
+                "x": 84.0,
+                "y": 40.94999694824219,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/StraightRoad.prefab",
+            "position": {
+                "x": 52.0,
+                "y": 1.0,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/StraightRoad.prefab",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabPath": "Assets/Prefabs/Map/Roads/StraightRoad.prefab",
+            "position": {
+                "x": 84.0,
+                "y": 32.959999084472659,
+                "z": -0.10000000149011612
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        }
+    ]
+}

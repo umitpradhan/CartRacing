@@ -41,3 +41,33 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Road
+    uniqueID: 3078959367
+    locked: 0
+  - name: Decoration
+    uniqueID: 1184467055
+    locked: 0
+  - name: Obstacle
+    uniqueID: 30792237
+    locked: 0
+  - name: Spawnpoint
+    uniqueID: 1951976507
+    locked: 0
+  - name: New Layer 5
+    uniqueID: 269336491
+    locked: 0
+  - name: Enemy
+    uniqueID: 1866707913
+    locked: 0
+  - name: New Layer 7
+    uniqueID: 2291638897
+    locked: 0
+  - name: New Layer 8
+    uniqueID: 2944851731
+    locked: 0
+  - name: New Layer 9
+    uniqueID: 2700996373
+    locked: 0
+  - name: Player
+    uniqueID: 185661301
+    locked: 0
